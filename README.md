@@ -19,11 +19,11 @@ The setup simulates a real-world data center environment in a virtualized lab, p
 | **Component**   | **Details**                    |
 |-----------------|--------------------------------|
 | **Host System** | Lenovo ThinkCentre M700        |
+| **OS**          | Ubuntu 24.04.2 LTS             |
+| **Kernel**      | Linux 6.11.0-19-generic        |
 | **CPU / RAM**   | 4 Cores / 16 GB RAM            |
 | **Storage**     | 1 TB SSD                       |
 | **Hypervisor**  | Proxmox VE 8.x                 |
-| **Network**     | 1x physical interface `eno1` bridged as `vmbr0` |
-
 ---
 
 ## 3. Steps Towards Implementation
