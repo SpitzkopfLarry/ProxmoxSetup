@@ -23,7 +23,7 @@ The setup simulates a real-world data center environment in a virtualized lab, p
 | **Kernel**      | Linux 6.11.0-19-generic        |
 | **CPU / RAM**   | 4 Cores / 16 GB RAM            |
 | **Storage**     | 1 TB SSD                       |
-| **Hypervisor**  | Proxmox VE 8.x                 |
+| **Hypervisor**  | Proxmox VE 8.3.0                |
 ---
 
 ## 3. Steps Towards Implementation
